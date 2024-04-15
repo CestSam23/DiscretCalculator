@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/Icons">
+        <file alias="ellipseItemIcon">iconos/elipseItem.png</file>
+        <file alias="oneDirectionButtonIcon">iconos/oneDIrectionButton.png</file>
+        <file alias="selectionButtonIcon">iconos/selectionButton.png</file>
+        <file alias="selectionOfVerticesIcon">iconos/selectionOfVertices.png</file>
+        <file alias="twoDirectionButton">iconos/twoDirectionButton.png</file>
+    </qresource>
+</RCC>
